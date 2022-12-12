@@ -18,4 +18,4 @@ Next, the unncessary columns were dropped using df.drop()
 The column names were changed.
 
 The output has to look like:
-
+<img width="866" alt="image" src="https://user-images.githubusercontent.com/34234829/207099960-d52f1f36-a17a-471f-a24f-95be689f42a6.png">
